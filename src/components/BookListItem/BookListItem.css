@@ -1,0 +1,20 @@
+.book-list-item {
+    display: flex;
+    margin: 15px 0;
+}
+
+.book-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    align-items: flex-start;
+}
+
+.book-title {
+    font-size: 1.2rem;
+}
+
+.book-price {
+    font-size: 1.4rem;
+}
